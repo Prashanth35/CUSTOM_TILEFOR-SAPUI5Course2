@@ -1,0 +1,10 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="course_custom_contrl.main" xmlns:html="http://www.w3.org/1999/xhtml"  xmlns:cr="control">
+	<Page title="Title">
+		<content>
+	<cr:Course   price="18000/-" author="Devender Naik" hover="onmouseover"  id="idcourse" />
+	
+	
+		</content>
+	</Page>
+</core:View>

@@ -1,0 +1,39 @@
+.myCourseTile{
+	
+	 
+	     display: block;
+    width: 200px;
+    padding: 0 0 0 10px;
+	 
+	 background: #fff; 
+    color: #29303b;
+    height: 350px;
+    display: block;
+    font-size: small;
+    overflow: hidden;
+    border:2px solid #fff;
+    
+}
+	 
+	 
+	
+
+.img{
+	 background: skyblue;
+	width:200px;
+	height: "50px";
+	
+}
+.rtng{
+	
+	
+
+	
+	
+}
+.price{
+	
+	padding-left:150px;
+	padding-top:30px;
+	font-weight:bold;
+}
